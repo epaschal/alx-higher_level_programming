@@ -5,6 +5,6 @@ if __name__ == "__main__":
         print(0)
     else:
         add = 0
-        for i in range(1,len(argv)):
+        for i in range(1, len(argv)):
             add += int(argv[i])
         print(add)
