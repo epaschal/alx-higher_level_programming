@@ -14,5 +14,7 @@ Example:
 
 class Square:
     """An empty class that defines a square
+
+    As instructed, no method or attribute is created
     """
     pass
